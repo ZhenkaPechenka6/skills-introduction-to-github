@@ -1,5 +1,5 @@
 package abstr;
 
 public interface Moves {
-    public void say();
+    void say(int x);
 }
